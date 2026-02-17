@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupa Sree</h1>
-<h3 align="center">Low-key addicted to building and shipping cool stuff that works. I love breaking down complex problems into simpler one recursively,until they turn into something I can actually build. For me, growth is just math: (Curiosity + Consistency) × Practice = Skill. I think in systems, learn fast, and keep compounding every day ,one build at a time.</h3>
+<h3 align="center">Low-key addicted to building and shipping cool stuff that works. I love breaking down complex problems into simpler one recursively,until they turn into something I can actually build. For me, growth is just math: (Curiosity + Consistency) × Practice = Skill. I think in systems, learn fast, and keep compounding every day,one build at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupasree97&label=seen&color=0e75b6&style=flat" alt="rupasree97" /> </p>
 
