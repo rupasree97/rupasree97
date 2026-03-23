@@ -76,22 +76,17 @@
 </a>
 <br/><br/>
 <!-- Snake Contribution Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake.svg" />
-</picture>
-<br/>
-```python
+
+
 while alive:
     keep_building()        
     stay_curious()         
     compound_daily()       
     repeat()               
-```
+
 <br/>
 <!-- Baddie Vibe Section -->
-<img src="https://media.giphy.com/media/3o7TKwxYkeW0ZvTqsU/giphy.gif" width="120" alt="sparkle sticker"/>
+
 
 <br/><br/>
 *"every problem is just a simpler one you haven't found yet — keep digging."* &nbsp;✦
@@ -105,4 +100,4 @@ f(skill) = ∫ curiosity(t) · consistency(t) dt
 <br/>
 </div>
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:ffb6c1&height=120&section=footer&text=✨+keep+building,+keep+glowing+✨&fontSize=18&fontColor=ffffff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:ffb6c1&height=120&section=footer&text=✨+keep+building,+keep+glowing+✨&fontSize=18&fontColor=ffffff&fontAlignY=65" /
