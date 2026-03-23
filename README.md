@@ -1,7 +1,7 @@
 <!-- Top Banner Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:c084fc&height=200&section=header&text=Hi%20there!%20I'm%20Rupa%20Sree%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20Thinker%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18" />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6EB4&center=true&vCenter=true&width=700&lines=Low-key+addicted+to+shipping+cool+stuff+%F0%9F%9A%80;Curiosity+%C3%97+Consistency+%3D+Skill+%F0%9F%92%96;Thinking+in+systems%2C+compounding+daily+%E2%9C%A8;My+brain+turns+everything+into+equations+%F0%9F%A7%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6EB4&center=true&vCenter=true&width=700&lines=Low-key+addicted+to+shipping+cool+stuff;Curiosity+%C3%97+Consistency+%3D+Skill+%F0%9F%92%96;Thinking+in+systems%2C+compounding+daily+%E2%9C%A8;My+brain+turns+everything+into+equations+%F0%9F%A7%AE" alt="Typing SVG" />
 <p>
   <img src="https://komarev.com/ghpvc/?username=rupasree97&label=✨+profile+views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
@@ -12,12 +12,12 @@
 ### 🌸 `about_me.json`
 ```json
 {
-  "name": "Rupa Sree",
-  "tagline": "Low-key addicted to building & shipping cool stuff",
-  "mindset": "Break complex → simpler → simpler → build it.",
-  "formula": "(Curiosity + Consistency) × Practice = Skill 💖",
-  "superpower": "Thinking in systems, compounding daily.",
-  "fun_fact": "My brain turns most things into equations 🧮✨"
+  "name"       : "Rupa Sree",
+  "tagline"    : "Low-key addicted to building & shipping cool stuff",
+  "mindset"    : "Break complex → simpler → simpler → build it",
+  "formula"    : "(Curiosity + Consistency) × Practice = Skill",
+  "superpower" : "Thinking in systems, compounding daily",
+  "fun_fact"   : "My brain turns most things into equations 🧮✨"
 }
 ```
 <br clear="right"/>
@@ -76,18 +76,21 @@
 </a>
 <br/><br/>
 <!-- Snake Contribution Animation -->
-
-
-while alive:
-    keep_building()        
-    stay_curious()         
-    compound_daily()       
-    repeat()               
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake.svg" />
+</picture>
 <br/>
-<!-- Baddie Vibe Section -->
-
-
+```python
+while alive:
+    keep_building()
+    stay_curious()
+    compound_daily()
+    repeat()
+```
+<br/>
+<img src="https://media.giphy.com/media/3o7TKwxYkeW0ZvTqsU/giphy.gif" width="120" alt="sparkle sticker"/>
 <br/><br/>
 *"every problem is just a simpler one you haven't found yet — keep digging."* &nbsp;✦
 <br/>
@@ -95,9 +98,8 @@ while alive:
 f(skill) = ∫ curiosity(t) · consistency(t) dt
 ```
 <br/>
-
 <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="baddie aesthetic gif"/>
 <br/>
 </div>
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:ffb6c1&height=120&section=footer&text=✨+keep+building,+keep+glowing+✨&fontSize=18&fontColor=ffffff&fontAlignY=65" /
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:ffb6c1&height=120&section=footer&text=✨+keep+building,+keep+glowing+✨&fontSize=18&fontColor=ffffff&fontAlignY=65" />
