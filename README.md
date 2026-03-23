@@ -1,21 +1,101 @@
-<h1 align="center">Hi 👋, I'm Rupa Sree</h1>
-<h3 align="center">Low-key addicted to building and shipping cool stuff that works. I love breaking down complex problems into simpler one recursively,until they turn into something I can actually build. For me, growth is just math: (Curiosity + Consistency) × Practice = Skill. I think in systems, learn fast, and keep compounding every day,one build at a time.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupasree97&label=seen&color=0e75b6&style=flat" alt="rupasree97" /> </p>
-
-
-
-- Fun fact **My brain turns most things into equations and patterns.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rupasree12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupasree12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rupasreebodem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupasreebodem" height="30" width="40" /></a>
+<!-- Top Banner Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:c084fc&height=200&section=header&text=Hi%20there!%20I'm%20Rupa%20Sree%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20Thinker%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6EB4&center=true&vCenter=true&width=700&lines=Low-key+addicted+to+shipping+cool+stuff+%F0%9F%9A%80;Curiosity+%C3%97+Consistency+%3D+Skill+%F0%9F%92%96;Thinking+in+systems%2C+compounding+daily+%E2%9C%A8;My+brain+turns+everything+into+equations+%F0%9F%A7%AE" alt="Typing SVG" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rupasree97&label=✨+profile+views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupasree97&" alt="rupasree97" /></p>
+</div>
+---
+<!-- Intro Section with Sticker -->
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="coding girl gif"/>
+### 🌸 `about_me.json`
+```json
+{
+  "name": "Rupa Sree",
+  "tagline": "Low-key addicted to building & shipping cool stuff",
+  "mindset": "Break complex → simpler → simpler → build it.",
+  "formula": "(Curiosity + Consistency) × Practice = Skill 💖",
+  "superpower": "Thinking in systems, compounding daily.",
+  "fun_fact": "My brain turns most things into equations 🧮✨"
+}
+```
+<br clear="right"/>
+---
+<!-- Skills Section -->
+<div align="center">
+### 💻 `my_stack.ts` — Skills & Tools
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" alt="skills gif"/> &nbsp; *Organized with love* &nbsp; <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" alt="skills gif"/>
+</div>
+<br/>
+#### 🌺 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css&theme=light" />
+</p>
+#### 🌷 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap&theme=light" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=333" alt="pandas"/>
+</p>
+#### 🌸 Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=light" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-FFB6C1?style=for-the-badge&logo=oracle&logoColor=333" alt="oracle"/>
+</p>
+#### 🎀 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,postman&theme=light" />
+</p>
+---
+<!-- GitHub Stats -->
+<div align="center">
+### 📊 `stats.dashboard`
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="chart gif"/> &nbsp; *My GitHub Universe* &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="chart gif"/>
+<br/><br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rupasree97&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupasree97&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<br/><br/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupasree97&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+---
+<!-- Connect Section -->
+<div align="center">
+### 🌸 `connect_with_me()`
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="wave gif"/> &nbsp; *Let's build something cool together!* &nbsp; <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="wave gif"/>
+<br/><br/>
+<a href="https://linkedin.com/in/rupasree12" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.leetcode.com/rupasreebodem" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FF69B4.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+</a>
+<br/><br/>
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rupasree97/rupasree97/output/github-snake.svg" />
+</picture>
+<br/>
+```python
+while alive:
+    keep_building()        
+    stay_curious()         
+    compound_daily()       
+    repeat()               
+```
+<br/>
+<!-- Baddie Vibe Section -->
+<img src="https://media.giphy.com/media/3o7TKwxYkeW0ZvTqsU/giphy.gif" width="120" alt="sparkle sticker"/>
+> **`// vibe_check.exe`**
+> *"She codes in the dark, ships before noon, and makes it look easy. 💅"*
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="baddie aesthetic gif"/>
+<br/>
+</div>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:ffb6c1&height=120&section=footer&text=✨+keep+building,+keep+glowing+✨&fontSize=18&fontColor=ffffff&fontAlignY=65" />
