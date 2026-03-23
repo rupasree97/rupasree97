@@ -92,8 +92,15 @@ while alive:
 <br/>
 <!-- Baddie Vibe Section -->
 <img src="https://media.giphy.com/media/3o7TKwxYkeW0ZvTqsU/giphy.gif" width="120" alt="sparkle sticker"/>
-> **`// vibe_check.exe`**
-> *"She codes in the dark, ships before noon, and makes it look easy. 💅"*
+
+<br/><br/>
+*"every problem is just a simpler one you haven't found yet — keep digging."* &nbsp;✦
+<br/>
+```math
+f(skill) = ∫ curiosity(t) · consistency(t) dt
+```
+<br/>
+
 <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="baddie aesthetic gif"/>
 <br/>
 </div>
