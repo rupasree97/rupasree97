@@ -78,7 +78,7 @@
 
 &nbsp;&nbsp;
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupasree97&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupasree97&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/> -->
 
 <br/><br/>
 
