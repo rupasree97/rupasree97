@@ -72,7 +72,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="chart gif"/> &nbsp; *My GitHub Universe* &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="chart gif"/>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rupasree97&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> -->
 
