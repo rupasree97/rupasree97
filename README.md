@@ -104,9 +104,6 @@
 
 &nbsp;
 
-<a href="https://www.leetcode.com/rupasreebodem" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FF69B4.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
-</a>
 
 <br/><br/>
 
